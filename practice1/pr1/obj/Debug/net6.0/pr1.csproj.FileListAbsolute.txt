@@ -1,0 +1,14 @@
+C:\Users\Цуканов Сергей\Desktop\CS-Project\pr1\pr1\obj\Debug\net6.0\pr1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Цуканов Сергей\Desktop\CS-Project\pr1\pr1\obj\Debug\net6.0\pr1.AssemblyInfoInputs.cache
+C:\Users\Цуканов Сергей\Desktop\CS-Project\pr1\pr1\obj\Debug\net6.0\pr1.AssemblyInfo.cs
+C:\Users\Цуканов Сергей\Desktop\CS-Project\pr1\pr1\obj\Debug\net6.0\pr1.csproj.CoreCompileInputs.cache
+C:\Users\Цуканов Сергей\Desktop\CS-Project\pr1\pr1\bin\Debug\net6.0\pr1.exe
+C:\Users\Цуканов Сергей\Desktop\CS-Project\pr1\pr1\bin\Debug\net6.0\pr1.deps.json
+C:\Users\Цуканов Сергей\Desktop\CS-Project\pr1\pr1\bin\Debug\net6.0\pr1.runtimeconfig.json
+C:\Users\Цуканов Сергей\Desktop\CS-Project\pr1\pr1\bin\Debug\net6.0\pr1.dll
+C:\Users\Цуканов Сергей\Desktop\CS-Project\pr1\pr1\bin\Debug\net6.0\pr1.pdb
+C:\Users\Цуканов Сергей\Desktop\CS-Project\pr1\pr1\obj\Debug\net6.0\pr1.dll
+C:\Users\Цуканов Сергей\Desktop\CS-Project\pr1\pr1\obj\Debug\net6.0\refint\pr1.dll
+C:\Users\Цуканов Сергей\Desktop\CS-Project\pr1\pr1\obj\Debug\net6.0\pr1.pdb
+C:\Users\Цуканов Сергей\Desktop\CS-Project\pr1\pr1\obj\Debug\net6.0\pr1.genruntimeconfig.cache
+C:\Users\Цуканов Сергей\Desktop\CS-Project\pr1\pr1\obj\Debug\net6.0\ref\pr1.dll
